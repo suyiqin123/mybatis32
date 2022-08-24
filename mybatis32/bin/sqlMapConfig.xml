@@ -9,7 +9,7 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 <!-- 		<typeAlias type="com.itheima.mybatis.pojo.User" alias="User"/> -->
 		<package name="com.itheima.mybatis.pojo"/>
 	</typeAliases>
-	<!-- 和spring整合后 environments配置将废除   liqb -->
+	<!-- 和spring整合后 environments配置将废除   liqb2 -->
 	<environments default="development">
 		<environment id="development">
 			<!-- 使用jdbc事务管理 -->
